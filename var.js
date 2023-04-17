@@ -13,8 +13,8 @@ function calcTotal1() {
       var ceilValue = Form1.selectionCeil.value;	
       var repairValue = Form1.selectionRepair.value;
       var repaiValue = Form1.selectionR.value;
-      var repaqValue = Form1.selectiov.value;
-      var repaaValue = Form1.selectiou.Value;
+      var repaqValue = Form1.selectionv.value;
+      var repaaValue = Form1.selectionu.Value;
       var repazValue = Form1.selectiono.Value;
       var repapValue = Form1.selectionp.Value;
       var etagValue = Form1.etag1.Value;
