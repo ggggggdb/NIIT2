@@ -1,3 +1,4 @@
+
 var form1 = document.forms.Form1; 
 var form2 = document.forms.Form2; 
 var square = document.getElementById('square');  
