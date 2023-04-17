@@ -14,13 +14,13 @@ function calcTotal1() {
       var repairValue = Form1.selectionRepair.value;
       var repaiValue = Form1.selectionR.value;
       var repaqValue = Form1.selectionv.value;
-      var repaaValue = Form1.selectionu.Value;
-      var repazValue = Form1.selectiono.Value;
-      var repapValue = Form1.selectionp.Value;
-      var etagValue = Form1.etag1.Value;
-      var balconValue = Form1.balcon1.Value;
-      var windowValue = Form1.window1.Value;
-      var transportValue = Form1.tq.Value;
+      var repaaValue = Form1.selectionu.value;
+      var repazValue = Form1.selectiono.value;
+      var repapValue = Form1.selectionp.value;
+      var etagValue = Form1.etag1.value;
+      var balconValue = Form1.balcon1.value;
+      var windowValue = Form1.window1.value;
+      var transportValue = Form1.tq.value;
     
       
       
