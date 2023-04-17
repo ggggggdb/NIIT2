@@ -15,7 +15,7 @@ function calcTotal1() {
       var repaiValue = Form1.selectionR.value;
       var repaqValue = Form1.selectiov.value;
       var repaaValue = Form1.selectiou.Value;
-      var repazValue = Form1.selectioo.Value;
+      var repazValue = Form1.selectiono.Value;
       var repapValue = Form1.selectionp.Value;
       var etagValue = Form1.etag1.Value;
       var balconValue = Form1.balcon1.Value;
